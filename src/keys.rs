@@ -7,6 +7,8 @@ pub const AFFILIATE_ID_KEY: &str = ".affiliate_id";
 pub const GA_CLIENT_ID_KEY: &str = ".client_id_ga";
 pub const GA_SESSION_ID_KEY: &str = ".session_id_ga";
 pub const GA_CLI_ID_KEY: &str = ".gclid";
+pub const GA_FBC_KEY: &str = ".fbc_ga";
+pub const GA_FBP_KEY: &str = ".fbp_ga";
 
 pub const UTM_SOURCE_KEY: &str = ".utm_source";
 pub const UTM_MEDIUM_KEY: &str = ".utm_medium";
